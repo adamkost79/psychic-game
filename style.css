@@ -1,0 +1,19 @@
+* {
+background-color: black;
+}
+
+
+h1 {
+  color:lightgrey ;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.box {
+  width: 500px;
+  margin-left: 350px;
+}
